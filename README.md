@@ -20,8 +20,3 @@ Durante a prática apresentada no conteúdo, explorei as principais funcionalida
 - ✅ Integração com **dados e ações externas** usando conectores e plugins.
 - ✅ Testes e publicação do copiloto diretamente pela interface do Copilot Studio.
 - ✅ Importância da **IA responsável** na construção de experiências conversacionais.
-
----
-
-## 📁 Estrutura do Repositório
-
