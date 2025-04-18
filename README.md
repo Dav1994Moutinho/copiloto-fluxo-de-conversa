@@ -1,16 +1,16 @@
-# 🤖 Desafio - Copiloto com Fluxo de Conversa Personalizado no Microsoft Copilot Studio
+# Desafio - Copiloto com Fluxo de Conversa Personalizado no Microsoft Copilot Studio
 
-## 📌 Descrição do Desafio
+## Descrição do Desafio
 
 Este repositório contém a entrega do desafio: **"Criar um Copiloto com Fluxo de Conversa Personalizado no Microsoft Copilot Studio"**.
 
-### 🎯 Objetivo
+### Objetivo
 
 O objetivo principal deste desafio é utilizar o **Microsoft Copilot Studio** para desenvolver um **copiloto personalizado**, com um fluxo de conversa específico, demonstrando compreensão dos conceitos apresentados na prática.
 
 ---
 
-## 🧠 O que foi feito
+## O que foi feito
 
 Durante a prática apresentada no conteúdo, explorei as principais funcionalidades da plataforma **Microsoft Copilot Studio**. Abaixo, um resumo do que aprendi:
 
